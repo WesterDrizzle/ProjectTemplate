@@ -1,0 +1,3 @@
+C:/Users/Coward/Desktop/Project/ProjectTemplate/LvglTemplate/HalVersion_v9/cmake-build-debug/CMakeFiles/hal.elf.dir
+C:/Users/Coward/Desktop/Project/ProjectTemplate/LvglTemplate/HalVersion_v9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Coward/Desktop/Project/ProjectTemplate/LvglTemplate/HalVersion_v9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
